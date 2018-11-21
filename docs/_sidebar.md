@@ -1,0 +1,8 @@
+* [Home](/)
+* [Installation](installation.md)
+* [Import a Demo](import-a-demo.md)
+* [Update Theme](update.md)
+* [Theme Options](theme-options.md)
+* [Pages](pages.md)
+* [Publications](publications.md)
+* [FAQ](faq.md)
