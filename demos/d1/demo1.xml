@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.8" created="2018-11-25 08:08" -->
+<!-- generator="WordPress/4.9.8" created="2018-11-27 06:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Demo 1</title>
 	<link>http://wpfaculty.owwwlab.com/d1</link>
 	<description>Faculty Demos site</description>
-	<pubDate>Sun, 25 Nov 2018 08:08:14 +0000</pubDate>
+	<pubDate>Tue, 27 Nov 2018 06:49:18 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wpfaculty.owwwlab.com/</wp:base_site_url>
@@ -397,7 +397,7 @@
 	</item>
 	<item>
 		<title>2287269183_03cab46602_o</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/the-hidden-benefits-of-gossip-ostracism/2287269183_03cab46602_o/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/the-hidden-benefits-of-gossip-ostracism/2287269183_03cab46602_o/</link>
 		<pubDate>Tue, 28 Jan 2014 15:46:57 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/wp-content/uploads/sites/2/2014/01/2287269183_03cab46602_o-e1390924363738.jpg</guid>
@@ -1361,7 +1361,7 @@
 	</item>
 	<item>
 		<title>faculty</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/19/faculty/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/faculty/</link>
 		<pubDate>Mon, 19 Nov 2018 16:37:56 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/19/faculty/</guid>
@@ -1750,7 +1750,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title></title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/389/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/389/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/</guid>
@@ -1805,7 +1805,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title></title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/390/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/390/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/</guid>
@@ -1860,7 +1860,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title></title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/391/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/391/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/</guid>
@@ -1915,7 +1915,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title></title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/392/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/392/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/</guid>
@@ -1970,7 +1970,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title></title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/393/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/393/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/</guid>
@@ -2025,7 +2025,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Download CV</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/download-cv/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/download-cv/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/download-cv/</guid>
@@ -2080,7 +2080,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Submenu</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/submenu/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/submenu/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/submenu/</guid>
@@ -2135,7 +2135,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title></title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/420/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/420/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/420/</guid>
@@ -2190,7 +2190,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title></title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/421/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/421/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/421/</guid>
@@ -2245,7 +2245,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title></title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/422/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/422/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/422/</guid>
@@ -2300,7 +2300,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Non-Ajax</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/non-ajax/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/non-ajax/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/non-ajax/</guid>
@@ -2355,7 +2355,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Ajax Page</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/ajax-page/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/ajax-page/</link>
 		<pubDate>Sun, 18 Nov 2018 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/2018/11/18/ajax-page/</guid>
@@ -2614,7 +2614,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Uwingu wants you to submit names for their planetary baby book</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/another-post/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/another-post/</link>
 		<pubDate>Tue, 28 Jan 2014 02:52:17 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=109</guid>
@@ -2646,7 +2646,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Astronomy podcast for kids</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/yet-another-post/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/yet-another-post/</link>
 		<pubDate>Tue, 28 Jan 2014 02:52:26 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=111</guid>
@@ -2678,7 +2678,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Nerd deGrasse Tyson</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/yet-another-post-2/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/yet-another-post-2/</link>
 		<pubDate>Tue, 28 Jan 2014 02:52:34 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=113</guid>
@@ -2705,7 +2705,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>A refreshing Shasta</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/yet-another-post3/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/yet-another-post3/</link>
 		<pubDate>Tue, 28 Jan 2014 02:52:51 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=115</guid>
@@ -2751,7 +2751,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>You think water moves fast? You should see ice</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/back-to-work/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/back-to-work/</link>
 		<pubDate>Tue, 28 Jan 2014 03:28:47 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=125</guid>
@@ -2962,7 +2962,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Astronomy podcast for kids</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/astronomy-podcast-for-kids/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/astronomy-podcast-for-kids/</link>
 		<pubDate>Tue, 28 Jan 2014 12:55:41 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=128</guid>
@@ -2999,7 +2999,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Just another blog post</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/just-another-blog-post/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/just-another-blog-post/</link>
 		<pubDate>Tue, 28 Jan 2014 12:56:16 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=130</guid>
@@ -3036,7 +3036,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Study analyzes content of nightmares and bad dreams</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/study-analyzes-content-of-nightmares-and-bad-dreams/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/study-analyzes-content-of-nightmares-and-bad-dreams/</link>
 		<pubDate>Tue, 28 Jan 2014 12:57:07 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=132</guid>
@@ -3073,7 +3073,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Making stem cells grow human hair</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/making-stem-cells-grow-human-hair/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/making-stem-cells-grow-human-hair/</link>
 		<pubDate>Tue, 28 Jan 2014 12:57:27 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=134</guid>
@@ -3110,7 +3110,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>An old mathematical puzzle soon to be unraveled?</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/an-old-mathematical-puzzle-soon-to-be-unraveled/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/an-old-mathematical-puzzle-soon-to-be-unraveled/</link>
 		<pubDate>Tue, 28 Jan 2014 12:57:50 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=136</guid>
@@ -3147,7 +3147,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>Rust Belt gentrification and how it hurts the poor</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/rust-belt-gentrification-and-how-it-hurts-the-poor/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/rust-belt-gentrification-and-how-it-hurts-the-poor/</link>
 		<pubDate>Tue, 28 Jan 2014 12:58:09 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=138</guid>
@@ -3184,7 +3184,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 	</item>
 	<item>
 		<title>The hidden benefits of gossip, ostracism</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2014/01/28/the-hidden-benefits-of-gossip-ostracism/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/the-hidden-benefits-of-gossip-ostracism/</link>
 		<pubDate>Tue, 28 Jan 2014 12:58:31 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=140</guid>
@@ -3349,7 +3349,7 @@ Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla conse
 	</item>
 	<item>
 		<title>Getting closer: Super-Earth found in a star’s habitable zone</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2013/12/02/hello-world-2/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/hello-world-2/</link>
 		<pubDate>Mon, 02 Dec 2013 05:50:20 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/wp-faculty/?p=1</guid>
@@ -3486,7 +3486,7 @@ As a new WordPress user, you should go to <a href="http://localhost:8888/facult
 	</item>
 	<item>
 		<title>Hello world!</title>
-		<link>http://wpfaculty.owwwlab.com/d1/2018/11/18/hello-world/</link>
+		<link>http://wpfaculty.owwwlab.com/d1/hello-world/</link>
 		<pubDate>Sun, 18 Nov 2018 11:16:44 +0000</pubDate>
 		<dc:creator><![CDATA[owwwlab]]></dc:creator>
 		<guid isPermaLink="false">http://wpfaculty.owwwlab.com/d1/?p=1</guid>
