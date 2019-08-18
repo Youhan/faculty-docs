@@ -260,4 +260,5 @@
 ## V 4.1.0
   	- Compatibility with WordPress 5.2.2
 	- Updated Page Builder Plugin to v6.0.5
+	- Adds One-click auto update
 	
