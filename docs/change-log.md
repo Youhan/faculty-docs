@@ -1,12 +1,12 @@
-- v1.0 -- 11 February 14
+## v1.0 -- 11 February 14
     -initial release
 
-- v1.2 -- 13 February 14
+## v1.2 -- 13 February 14
     - Menu ajax pages fixed
     - Ajax-disabled publication and gallery templates fixed
     - Documentation updated
 
--v1.3 -- 17 February 14
+## v1.3 -- 17 February 14
 	- thumbnail.png changed
 	- facebook share fixed
 	- twitter sahre added
@@ -14,7 +14,7 @@
 	- po file updated
 	- added thumnails to blog list (optional)
 
-- v1.4 -- 25 February 14
+## v1.4 -- 25 February 14
 	
 	** CAUTION ** back-up your project descriptions first, after update to 1.4 you will have to re-fill project descriptions
 
@@ -29,7 +29,7 @@
 	- visual composer : lab carousel's hyperlink text is configurable now
 	- visual composer : single project bug is fixed and now accepts images and hyperlinks as well
 
-- v1.5 -- 27 March 14
+## v1.5 -- 27 March 14
 	- publication drop-down is fixed.
 	- publications sort by date, fixed.
 	- multiple category for publications, fixed.
@@ -48,7 +48,7 @@
 	- fancy scrollbars are now optional you can enable/disable it.
 	- circle wrap around the profile picture is optional now.
 
-- v2.0 -- 09 May 14
+## v2.0 -- 09 May 14
 	
 	** NOTICE ** please read the documentation before update
 	
@@ -65,12 +65,12 @@
 	- Enhanced blog layout for mobile devices
 	- Lab carousel now support less that 4 items
 
-- v2.0.1 -- 09 May 14
+## v2.0.1 -- 09 May 14
 
 	- quick fix at function.php file missed at v2.0.0
 
 
-- v.3.0 -- 01 Sep 14
+## v.3.0 -- 01 Sep 14
 	
 	- Added WPML compatibility 
 	- Added a page-template with wigetized sidebar
@@ -86,20 +86,20 @@
 	- Removed perfect scroll bar and now theme is using nicescroll jQuery plugin
 	- Added Search result page 
 
-- v.3.1.0 -- 03 sep 14
+## v.3.1.0 -- 03 sep 14
 
 	- Fixed Blog ajax minor bug
 	- Fixed skillbars
 	- Fixed fancy scrollbars
 
-- v.3.1.1 -- 9 sep 14
+## v.3.1.1 -- 9 sep 14
 	
 	- Fixed list-icon shortcode
 	- Fixed interests shortcode
 	- Added admin bar to front-end
 	- Updated the layout of blog sidebar
 
-- v.3.1.3 -- 02 oct 14
+## v.3.1.3 -- 02 oct 14
 	- added color option for publication types label color
 	- added multiple instance ability for lab carousel
 
@@ -256,8 +256,8 @@
 	- Updated Documentation and now available online : http://facultyd.owwwlab.com
 	- Added a theme welcome page to provide more information to administrators
 	- Theme language file is updated
-	
+
 ## V 4.1.0
-  - Compatibility with WordPress 5.2.2
+  	- Compatibility with WordPress 5.2.2
 	- Updated Page Builder Plugin to v6.0.5
-  
+	
