@@ -261,4 +261,8 @@
   	- Compatibility with WordPress 5.2.2
 	- Updated Page Builder Plugin to v6.0.5
 	- Adds One-click auto update
+
+## V 4.2.0
+  	- Fixes search page navigation
+	- Fixes a warning related to social icons
 	
