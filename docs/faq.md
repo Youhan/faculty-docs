@@ -88,6 +88,7 @@ Use the **Contact form 7** element in visual composer. Also, you can make some c
 1. Make sute you have installed/activated *Font Awesome 4 Menus* plugin.
 2. Go to Appearance > Customize page.
 3. Go to Menus and the menu you want to edit.
-4. Add the icon name eg. `fa-home` from FontAwesome4 to the `CSS Classes` field.
+4. find the icon name here [https://fontawesome.com/v4.7.0/icons/](https://fontawesome.com/v4.7.0/icons/)
+5. Add the icon name eg. `fa-home` from FontAwesome4 to the `CSS Classes` field.
 
 ![menu icon](img/faq9.png)
